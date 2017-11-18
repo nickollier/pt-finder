@@ -1,7 +1,5 @@
 # PT Finder
 
----
-
 ### Handlebars
 - PT / Client Info Output
 
